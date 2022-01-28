@@ -1,4 +1,4 @@
-import db from "../../../Firebase/Firebase-admin";
+// import db from "../../../Firebase/Firebase-admin";
 const requestIp = require("request-ip");
 const bcrypt = require("bcryptjs");
 

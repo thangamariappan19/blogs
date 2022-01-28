@@ -1,4 +1,4 @@
-import db from "../../../Firebase/Firebase-admin";
+// import db from "../../../Firebase/Firebase-admin";
 
 export default async (req, res) => {
   const { pid } = req.query;
